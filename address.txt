@@ -1,6 +1,6 @@
-3-209
-Narpala
-Ananthapur
-Andhra Pradesh
-515425
+3-209,
+Narpala,
+Ananthapur,
+Andhra Pradesh,
+515425.
 
